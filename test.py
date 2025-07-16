@@ -2,8 +2,10 @@ import requests
 
 # Replace with your desired endpoint
 url = 'https://jsonplaceholder.typicode.com/todos/1'
+print(url_
 
 # Send GET request
+print("Sending Requests)
 response = requests.get(url)
 
 # Check if the request was successful
