@@ -22,7 +22,7 @@ pipeline {
             steps {
                 sh '''
                 . test_venv/bin/activate
-                python3 requests.py
+                python3 test.py
                 '''
             }
         }
