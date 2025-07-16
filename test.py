@@ -2,7 +2,7 @@ import requests
 
 # Replace with your desired endpoint
 url = 'https://jsonplaceholder.typicode.com/todos/1'
-print(url_
+print(url)
 
 # Send GET request
 print("Sending Requests")
