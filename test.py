@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your desired endpoint
-url = 'https://jsonplaceholder.typicode.com/todos/1'
+url = 'https://httpbin.org/get'
 print(url)
 
 # Send GET request
