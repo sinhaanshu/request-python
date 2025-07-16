@@ -4,7 +4,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 script {
-                    git branch: 'main', url: 'git@github.com:sinhaanshu/request-python.git'
+                    git branch: 'main', url: 'https://github.com/sinhaanshu/request-python.git'
                 }
             }
         }
