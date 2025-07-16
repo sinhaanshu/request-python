@@ -5,7 +5,7 @@ url = 'https://jsonplaceholder.typicode.com/todos/1'
 print(url_
 
 # Send GET request
-print("Sending Requests)
+print("Sending Requests")
 response = requests.get(url)
 
 # Check if the request was successful
