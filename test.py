@@ -4,7 +4,7 @@ import requests
 url = 'https://httpbin.org/get'
 print(url)
 access_key=12345
-secret_access_key=67890
+secret_access_key=6789
 
 # Send GET request
 print("Sending Requests")
